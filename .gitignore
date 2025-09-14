@@ -1,0 +1,2 @@
+meca/src/*.*
+!meca/src/*.FCStd
